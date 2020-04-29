@@ -18,3 +18,5 @@ programmers or programming teams.
 2.testers and tests integration
 
 3.both white and black box testing
+
+Updated by 40_LauTingWei
